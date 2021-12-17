@@ -1,6 +1,6 @@
 ### Hi there, I'm Preyansh - aka [kingpreyansh][website] 👋 
 
-[![Website](https://img.shields.io/website?label=preyanshdutta.com&style=for-the-badge&url=https%3A%2F%preyanshdutta.com)](https://preyanshdutta.com)
+[![website](https://img.shields.io/website?label=preyanshdutta.com&style=for-the-badge&url=https%3A%2F%preyanshdutta.com)](https://preyanshdutta.com)
 
 ## I'm a CS Student, Entrepreneur, and Software Engineer
 
@@ -36,7 +36,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="kingpreyansh's GitHub Stats" src="https://github-readme-stats.kingpreyansh.vercel.app/api?username=kingpreyansh&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
