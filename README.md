@@ -10,6 +10,7 @@
 [<img align="left" alt="preyanshdutta.com | Website" width="22px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
 
 [<img align="left" alt="preyanshdutta | :Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+
 [<img align="left" alt="preyansh | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
