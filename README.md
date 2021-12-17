@@ -1,6 +1,6 @@
 ### Hi there, I'm Preyansh - aka [kingpreyansh][website] 👋 
 
-[<img align= "left" src ="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />][(https://preyanshdutta.com)]
+<img align= "left" src ="https://img.shields.io/static/v1?label=<preyanshdutta.com>&message=<vist website>&color=<red>" />
 
 ## I'm a CS Student, Entrepreneur, and Software Engineer
 
