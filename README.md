@@ -2,7 +2,7 @@
 
 ## I'm a CS Student, Entrepreneur, and Software Engineer
 
-- 🌱 I’m currently working with Java SpringBoot and Angular @ RBC
+- 🌱 Upcoming software developer @ AWS (Prev @ RBC)
 - 🥅 2022 GitHub Goals: Develop more personal projects, get more involved in Crypto
 
 ### Connect with me:
