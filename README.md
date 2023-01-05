@@ -3,7 +3,7 @@
 ## I'm a CS Student, Entrepreneur, and Software Engineer
 
 - 🌱 Upcoming software developer @ AWS (Prev @ RBC)
-- 🥅 2022 GitHub Goals: Develop more personal projects, get more involved in Crypto
+- 🥅 2023 GitHub Goals: Dive into AI
 
 ### Connect with me:
 
