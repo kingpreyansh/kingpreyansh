@@ -1,6 +1,6 @@
 ### Hi there, I'm Preyansh - aka [kingpreyansh][website]
-
-## Software Engineer @ AWS, Prev @ RBC, OSC. Founder @ WebDesigned.AI, AvantaLabs
+Software Engineer @ AWS, Prev @ RBC, OSC. 
+Founder @ WebDesignedAI, AvantaLabs
 
 ### Connect with me:
 
