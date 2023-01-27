@@ -1,9 +1,6 @@
-### Hi there, I'm Preyansh - aka [kingpreyansh][website] 👋 
+### Hi there, I'm Preyansh - aka [kingpreyansh][website]
 
-## I'm a CS Student, Entrepreneur, and Software Engineer
-
-- 🌱 Upcoming software developer @ AWS (Prev @ RBC)
-- 🥅 2023 GitHub Goals: Dive into AI
+## Software Engineer @ AWS, Prev @ RBC, OSC. Founder @ WebDesigned.AI, AvantaLabs
 
 ### Connect with me:
 
